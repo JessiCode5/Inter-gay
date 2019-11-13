@@ -342,9 +342,7 @@ mob/living/carbon/human/proc/fuck(mob/living/carbon/human/H as mob, mob/living/c
 			H.do_fucking_animation(P)
 			playsound(loc, "honk/sound/interactions/bang[rand(1, 9)].ogg", 70, 1, -1)
 
-		if("anal")
-			P.apply_damage(H.potenzia / 2, BRUTE, BP_GROIN)
-			//apply_damage(3, BRUTE, BP_GROIN) -- applies damage to the fucker
+		if("anal")					
 			message = pick("fucks [P]'s ass.")
 			if (prob(35))
 				message = pick("fucks [P]'s ass.")
