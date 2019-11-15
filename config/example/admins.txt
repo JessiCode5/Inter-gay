@@ -6,11 +6,7 @@
 ######################################################################
 
 # not_a_user - Admin
-
-Dathouse - Host
-AnimatedTanker - HeadAdmin
-Thusfire - Admin
-desion134 - HeadDeveloper
+desion134 - GameAdmin
 Maxin McGun - Moderator
 Myoblongvagooglia - Moderator
 Chrysamereblade - Moderator
