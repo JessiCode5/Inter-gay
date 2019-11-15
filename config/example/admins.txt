@@ -7,11 +7,12 @@
 
 # not_a_user - Admin
 desion134 - GameAdmin
-Maxin McGun - Moderator
-Myoblongvagooglia - Moderator
-Chrysamereblade - Moderator
-Deionus - Moderator
+
+Myoblongvagooglia - Host
+Chrysamereblade - GameAdmin
+Deionus - GameAdmin
 JerichoCaine - Moderator
+jessidraws - GameAdmin
 
 
 
